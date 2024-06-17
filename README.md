@@ -100,7 +100,7 @@ http://localhost:5006/
 
 ### Advanced:
 
-- Multi-agent system with specific roles (Medical Interviewer, Medical Diagnostician, General Doctor)
+- Multi-agent system with specific roles (Clinical Assistant, Medical Diagnostician, General Doctor)
 - Sequential task processing for comprehensive diagnostics
 - Customizable human interface for interaction
 
