@@ -75,6 +75,16 @@ To run the Advanced MediBot:
 ```sh
 panel serve src\advanced.py
 ```
+### All 3 together
+
+To run all 3 together and get an option to select from these three:
+```sh
+panel serve src\advanced.py src\basic.py src\report_assistant.py
+```
+Then go to your browser and type:
+```sh
+http://localhost:5006/
+```
 
 ## Features 
 
